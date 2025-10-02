@@ -1,10 +1,9 @@
 # Usage
 D3Edit <input file> <output file>
 
-# Convert .gam to JSON
+# Examples
 D3Edit Items_Armor.gam Items_Armor.json
 
-# Convert JSON back to .gam
 D3Edit Items_Armor.json Items_Armor.gam
 
 # Supported Conversions
