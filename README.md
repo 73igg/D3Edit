@@ -1,5 +1,3 @@
-# D3Edit
-
 # Usage
 D3Edit <input file> <output file>
 
@@ -11,13 +9,13 @@ D3Edit Items_Armor.json Items_Armor.gam
 
 # Supported Conversions
 
-# File ¡ú JSON
+File to JSON
 .gam
 .qst
 .acr
 .mon
 
-# JSON ¡ú File
+JSON to File
 .gam
 .qst
 .mon
