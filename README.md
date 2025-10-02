@@ -8,13 +8,13 @@ D3Edit Items_Armor.json Items_Armor.gam
 
 # Supported Conversions
 
-File to JSON
+File to JSON: 
 .gam
 .qst
 .acr
 .mon
 
-JSON to File
+JSON to File: 
 .gam
 .qst
 .mon
