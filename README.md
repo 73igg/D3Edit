@@ -1,5 +1,5 @@
 # Usage
-D3Edit <input file> <output file>
+D3Edit input file output file
 
 # Examples
 D3Edit Items_Armor.gam Items_Armor.json
